@@ -94,6 +94,7 @@
                     <execution>
                         <goals>
                             <goal>compile</goal>
+                            <goal>compile-js</goal>
                             <goal>compile-custom</goal>
                         </goals>
                     </execution>
